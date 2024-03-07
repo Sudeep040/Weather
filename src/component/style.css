@@ -1,0 +1,32 @@
+.w-fit{
+    min-width: 150px;
+}
+
+
+@media (max-width: 468px) {
+  
+    .w-50{
+      width: 100% !important;
+    }
+    .we{
+        height: 100%;
+    }
+    .w-75{
+        width: 100% !important;
+    }
+    .w-25{
+        width: 100% !important;
+    }
+    .wir{
+        width: 100%;
+    }
+    input{
+        width: 100%;
+    }
+    .w-fit{
+        min-width: 100%;
+        align-items: center;
+        display:  flex;
+        flex-direction: column;
+    }
+}
